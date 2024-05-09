@@ -17,7 +17,7 @@
 
 
 ### Seeding
-- For a example look back at our pizza project or [this](https://learn.microsoft.com/en-us/aspnet/core/tutorials/razor-pages/sql?view=aspnetcore-7.0&tabs=visual-studio#seed-the-database)
+- For an example look back at our pizza project or [this](https://learn.microsoft.com/en-us/aspnet/core/tutorials/razor-pages/sql?view=aspnetcore-7.0&tabs=visual-studio#seed-the-database)
 - Add at least 5 courses
 - Make sure to test the script by deleting all the courses
 - You can delete the courses by using DB tool or using Web UI
